@@ -82,14 +82,10 @@ export default {
 @use "../style/partials/variables" as *;
 
 .header-box {
-    @include flex(row, space-around, center);
+    @include flex(row, space-between, center);
     width: $width;
     margin: 0 auto;
     height: 140px;
-
-    img {
-        margin: 20px;
-    }
 
     .right {
 
