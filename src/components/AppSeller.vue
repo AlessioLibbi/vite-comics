@@ -64,6 +64,7 @@ export default {
     background-color: $primary;
     height: 170px;
     margin: 0 auto;
+    position: relative;
     z-index: 10;
 
     .seller-container {
