@@ -137,7 +137,18 @@ export default {
         </div>
     </div>
     <div class="footer-bot">
+        <div class="footer-bot-container">
+            <div class="footer-bot-left">
 
+            </div>
+            <div class="footer-bot-right">
+                <div class="icons">
+                    <a href="#" class="icon icon--instagram">
+
+                    </a>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 
